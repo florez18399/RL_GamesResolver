@@ -1,0 +1,17 @@
+# Entorno de RL
+gymnasium>=1.2.0
+ale-py>=0.10.0
+pygame>=2.6.0
+
+# Computo numerico y utilidades
+numpy>=2.0
+pandas>=2.0
+tqdm>=4.67
+
+# Visualizacion
+matplotlib>=3.10
+imageio>=2.34
+opencv-python>=4.9
+
+# Deep learning (notebook alien/alien_train.ipynb)
+torch>=2.2
